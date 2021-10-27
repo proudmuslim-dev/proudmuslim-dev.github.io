@@ -1,0 +1,39 @@
+# The URL the site will be built for
+base_url = "https://proudmuslim-dev.github.io"
+
+title = "Proudmuslim"
+description = "Personal site for Proudmuslim"
+
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "zerm"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+
+
+author = "Proudmuslim"
+
+logo_text = "proudmuslim-dev.github.io"
+
+theme_color = "orange"
+
+main_menu = [{ url = "/about/", name = "About Me" }]
+
+show_author = false
+
+show_tags = false
+
+show_categories = true
+
+center = true
