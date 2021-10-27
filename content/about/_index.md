@@ -9,6 +9,7 @@ date = 2021-11-27
 
 * [About Me](#about-me)
     * [Identities](#identities)
+    * [Contact](#contact)
     * [Software](#software)
     * [Projects](#projects)
     * [Languages](#languages)
@@ -22,6 +23,12 @@ date = 2021-11-27
 ## Identities
 
 * My verified identities can be found on [Keyoxide](https://keyoxide.org/079A6DA0B0550330B7224182848E82AF83272802).
+
+
+## Contact
+
+* Email: [proudmuslim-dev@protonmail.com](mailto:proudmuslim-dev@protonmail.com)
+* Matrix: [@proudmuslim-dev:matrix.org](https://matrix.to/#/@proudmuslim-dev:matrix.org)
 
 ## Software
 
