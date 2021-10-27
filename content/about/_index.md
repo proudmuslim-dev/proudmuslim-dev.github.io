@@ -25,7 +25,7 @@ date = 2021-11-27
 
 ## Software
 
-* Software Development:
+* Development Tools:
     * Text editor: Neovim
     * IDEs: CLion, IntelliJ, & VSCodium
 
@@ -56,4 +56,3 @@ date = 2021-11-27
 * Documents:
 
     * [![forthebadge](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)](https://forthebadge.com)
-

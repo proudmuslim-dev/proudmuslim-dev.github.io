@@ -2,7 +2,6 @@
 base_url = "https://proudmuslim-dev.github.io"
 
 title = "Proudmuslim"
-description = "Personal site for Proudmuslim"
 
 
 # Whether to automatically compile all Sass files in the sass directory
