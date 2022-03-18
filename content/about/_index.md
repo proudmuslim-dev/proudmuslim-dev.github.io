@@ -44,7 +44,7 @@ date = 2021-10-27
 ## Projects
 
 * Currently working on:
-    * [Forest](https://github.com/proudmuslim-dev/forest/) - a custom frontend for [TradeOgre](https://tradeogre.com), the non-KYC exchange.
+    * [Octocat-rs](https://github.com/octocat-rs/octocat-rs/) - an API library for GitHub written in Rust.
 
 ## Languages
 
@@ -56,9 +56,13 @@ date = 2021-10-27
 
     * [![forthebadge](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://ileriayo.github.io/markdown-badges/#programming-languages)
 
+    * [![forthebadge](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)](https://ileriayo.github.io/markdown-badges/#programming-languages)
+
 * Scripting:
 
     * [![forthebadge](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)](https://forthebadge.com)
+
+    * [![forthebadge](https://img.shields.io/badge/PureScript-000000?style=for-the-badge&logo=PureScript&logoColor=white)](https://ileriayo.github.io/markdown-badges/#programming-languages)
 
 * Documents:
 
