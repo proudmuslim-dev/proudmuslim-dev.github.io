@@ -2,7 +2,8 @@
 base_url = "https://proudmuslim-dev.github.io"
 
 title = "Proudmuslim"
-
+default_language = "en"
+generate_feed = true
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -12,27 +13,27 @@ build_search_index = false
 
 theme = "zerm"
 
+taxonomies = [{ name = "tags" }, { name = "categories" }]
+
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
-highlight_code = false
+highlight_code = true
+highlight_theme = "ayu-dark"
 
 [extra]
 # Put all your custom variables here
 
-
 author = "Proudmuslim"
-
 logo_text = "~/Proudmuslim"
+logo_home_link = "/"
 
 theme_color = "orange"
 
 main_menu = [{ url = "/about/", name = "About Me" }]
 
 show_author = false
-
-show_tags = false
-
+show_tags = true
 show_categories = true
+ToC = true
 
 center = true
+read_more = "read more"
