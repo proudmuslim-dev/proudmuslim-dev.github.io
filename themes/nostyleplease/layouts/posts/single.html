@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ partial "back_link.html" .}}
+
+<article>
+    <p class="post-meta">
+        <time datetime="{{ .Date }}">
+            {{ .Date | time.Format site.Params.theme_config.date_format }}
+        </time>
+    </p>
+
+    <div align="center">
+      <a style="font-family: sans-serif;">
+      بِسْمِ ٱللَّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+      </a>
+    </div>
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+</article>
+{{ end }}

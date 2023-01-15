@@ -1,0 +1,4 @@
+baseURL = 'http://proudmuslim.is-a.dev/'
+languageCode = 'en-us'
+title = '~/Proudmuslim'
+theme = "nostyleplease"
