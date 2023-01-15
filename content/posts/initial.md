@@ -8,17 +8,21 @@ draft: false
 
 # <a name="top"></a>
 
-* [About](#About)
-* [Why?](#Why)
-* [What exactly will be covered?](#Specifics)
+* [About](#about)
+* [Why?](#why)
+* [What exactly will be covered?](#topics)
 
 ***
 
-# <a name="About"></a> About
+# <a name="about"></a> 
+
+# About
 
 The purpose of this website will be to disseminate information I consider "useful". This will primarily come in the form of blog posts covering whatever comes to mind, and there will be no set schedule for these posts. 
 
-# <a name="Why"></a> Why?
+# <a name="why"></a> 
+
+# Why?
 
 The following verse from "ہندی اسلام" by Allama Iqbal encapsulates it. 
 
@@ -26,8 +30,9 @@ The following verse from "ہندی اسلام" by Allama Iqbal encapsulates it.
 >
 > نادان یہ سمجتا ہے کے اسلام ہیں آزاد
 
+# <a name="topics"></a>
 
-# <a name="Specifics"></a> What exactly will be covered?
+# What exactly will be covered?
 
 While there is no strict set of topics that this website will be limited to, there is a broad range of topics that I hope to cover. A list of these can be found below.
 
