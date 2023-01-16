@@ -10,7 +10,7 @@ draft: false
 
 * [About](#about)
 * [Why?](#why)
-* [What exactly will be covered?](#topics)
+* [What exactly will be covered?](#what-exactly-will-be-covered)
 
 ***
 
@@ -28,9 +28,9 @@ The following verse from "ہندی اسلام" by Allama Iqbal encapsulates it.
 
 > ملا کو جو ہے ہند میں سجدے کی اجازت 
 >
-> نادان یہ سمجتا ہے کے اسلام ہے آزاد 
+> نادان یہ سمجتا ہے کے اسلام ہے آزاد
 
-# <a name="topics"></a>
+# <a name="what-exactly-will-be-covered"></a>
 
 # What exactly will be covered?
 
