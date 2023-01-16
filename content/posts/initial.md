@@ -28,7 +28,7 @@ The following verse from "ہندی اسلام" by Allama Iqbal encapsulates it.
 
 > ملا کو جو ہے ہند میں سجدے کی اجازت 
 >
-> نادان یہ سمجتا ہے کے اسلام ہیں آزاد
+> نادان یہ سمجتا ہے کے اسلام ہے آزاد 
 
 # <a name="topics"></a>
 
