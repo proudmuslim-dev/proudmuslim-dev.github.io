@@ -17,7 +17,7 @@ draft: false
 
 # What is This?
 
-This article is the first in what will, inshāʾ Allāh, be a series of articles dedicated to raising awareness within the Muslim community about Muslim figures that are relatively obscure. These articles will be brief, as they aim to light a spark that will encourage readers to do more research on their own time. 
+This is the first in what will, inshāʾ Allāh, be a series of articles dedicated to raising awareness within the Muslim community about Muslim figures that are relatively obscure. These articles will be brief, as they aim to light a spark that will encourage readers to do more research on their own time. 
 
 # <a name="introduction"></a> 
 
