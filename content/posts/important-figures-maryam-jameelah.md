@@ -37,7 +37,7 @@ The following is an excerpt from pages 33-34 of her book *Islam and Modernism*:
 
 She is a relatively obscure figure today, with many of her books having gone out of print. 
 
-* They have been preserved in PDF form, and a quick search should be enough to pull them up. I won't link them here as I'm not interested in potentially getting the blog taken down.
+* They have been preserved in PDF form, and a quick search should be enough to pull them up. Links to some of them can be found on the [book list](/book-list/) page.
 
 Her work centered on modernist attempts to reform Islam, Western civilization, and the intersection of these two fields. She came into contact with Maulana Maududi (another figure who will be covered on this blog inshāʾ Allāh) shortly after her conversion and moved to Pakistan after just a year of exchanging letters with him. 
 
