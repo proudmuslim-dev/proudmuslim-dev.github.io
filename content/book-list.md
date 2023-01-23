@@ -19,11 +19,12 @@ This is a living document. It will be updated in the near future inshāʾ Allāh
 
 **Link**: https://islamicblessings.com/upload/Islam%20and%20The%20Secular%20Mind.pdf 
 
-**Description**: This book is a collection of essays written by Maulana Maududi (رَحِمَهُ ٱللَّٰهُ) the pertain to the current state of the Muslim Ummah from an ideological lens. It was translated and edited by Tarik Jan. My three favorite essays from this collection are listed below:
+**Description**: This book is a collection of essays written by Maulana Maududi (رَحِمَهُ ٱللَّٰهُ) that pertain to the current state of the Muslim Ummah from an ideological lens. It was translated and edited by Tarik Jan. My three favorite essays from this collection are listed below:
 
 * **Our Mental Slavery and its Causes**
 * **The Difference Between Secular and Divine Laws**
-    * This one is a case study comparing the prohibition of alcohol in America and in the Muslim world. It's quite interesting if you're interested in governing societies effectively, or if you're a dry and boring person like myself. **The Finitude of Rationalism**
+    * This one is a case study comparing the prohibition of alcohol in America and in the Muslim world. It's quite interesting if you're interested in governing societies effectively, or if you're a dry and boring person like myself. 
+* **The Finitude of Rationalism**
     * This is a must-read for those who wish to properly understand why liberal "Muslims" are self-contradictory. It's also very good for those who wish to understand the Islamic worldview, though it should by no means be the only thing you read for this purpose.
 
 ***
