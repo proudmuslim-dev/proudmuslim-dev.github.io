@@ -7,6 +7,10 @@ title = "links"
 url = "/links/"
 
 [[entries]]
+title = "contact"
+url = "/contact/"
+
+[[entries]]
 title = "posts"
 
   [entries.post_list]

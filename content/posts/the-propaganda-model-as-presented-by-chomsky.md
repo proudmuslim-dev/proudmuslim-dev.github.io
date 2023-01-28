@@ -11,6 +11,7 @@ draft: true
 * [Introduction](#introduction)
 * [Ownership](#ownership)
 * [The Role of Advertising](#the-role-of-advertising)
+* [Information Sources](#information-sources)
 * ["Flak" and its "Machines"](#flak-and-its-machines)
 * ["Anticommunism"?](#anticommunism)
 
@@ -43,13 +44,17 @@ The propaganda model centers on five of what the authors call "filters". These a
 
 This is something that the Muslim community is largely aware of, so this section will be brief. 
 
+In 1986, there were over 25,000 media entities (newspapers, magazines, radio & magazine channels, etc) in the United States. According to the book, a "large proportion" of these were local outlets, meaning that they were small, independent businesses devoid of the massive institutional bias present in the media today. Today, 24 massive corporations enjoy near-total control over the information intake of your average American citizen.
+
 # <a name="the-role-of-advertising"></a>
 
 # The Role of Advertising
 
-# <a name="sources"></a>
+The history of advertising in the media is much more interesting than one would think. 
 
-# Sources
+# <a name="information-sources"></a>
+
+# Information Sources
 
 # <a name="flak-and-its-machines"></a>
 

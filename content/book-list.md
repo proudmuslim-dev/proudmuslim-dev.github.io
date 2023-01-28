@@ -5,21 +5,29 @@ unsafe: true
 draft: false
 ---
 
+<style>
+  .ar {
+    font-family: sans-serif;
+  }
+</style>
+
 # <a name="top"></a>
 
-## Note
+## About
 
 This is a living document. It will be updated in the near future inshāʾ Allāh, as I have more books to add. 
+
+This list assumes that the reader is already familiar with the basics of Islam and the seerah of Rasulullah <a class="ar">ﷺ</a>. If you are not familiar with the latter, I recommend getting a copy of Ar-Raheequl Makhtum (The Sealed Nectar) by Safiur-Rahman Al-Mubarakpuri at the Islamic University of Madinah. It can be found at Darussalam (in stores and on their website), and the book itself is in English despite the Arabic title.
 
 ## Books
 
 **Book**: Islam and the Secular Mind
 
-**Author(s)**: Shaykh al-Islām Abu A'la Maududi (رَحِمَهُ ٱللَّٰهُ) | Tarik Jan (translator)
+**Author(s)**: Shaykh al-Islām Abu A'la Maududi (<a class="ar">رَحِمَهُ ٱللَّٰهُ</a>) | Tarik Jan (translator)
 
 **Link**: https://islamicblessings.com/upload/Islam%20and%20The%20Secular%20Mind.pdf 
 
-**Description**: This book is a collection of essays written by Maulana Maududi (رَحِمَهُ ٱللَّٰهُ) that pertain to the current state of the Muslim Ummah from an ideological lens. It was translated and edited by Tarik Jan. My three favorite essays from this collection are listed below:
+**Description**: This book is a collection of essays written by Maulana Maududi (<a class="ar">رَحِمَهُ ٱللَّٰهُ</a>) that pertain to the current state of the Muslim Ummah from an ideological lens. It was translated and edited by Tarik Jan. My three favorite essays from this collection are listed below:
 
 * **Our Mental Slavery and its Causes**
 * **The Difference Between Secular and Divine Laws**
