@@ -5,6 +5,11 @@ unsafe: true
 draft: false
 ---
 
+<style>
+  .ar {
+    font-family: sans-serif;
+  }
+</style>
 
 # <a name="top"></a>
 
@@ -24,11 +29,11 @@ The purpose of this website will be to disseminate information I consider "usefu
 
 # Why?
 
-The following verse from "ہندی اسلام" by Allama Iqbal encapsulates it. 
+The following verse from "<a class="ar">ہندی اسلام</a>" by Allama Iqbal encapsulates it. 
 
-> ملا کو جو ہے ہند میں سجدے کی اجازت 
+> <a class="ar">ملا کو جو ہے ہند میں سجدے کی اجازت</a>
 >
-> نادان یہ سمجتا ہے کے اسلام ہے آزاد
+> <a class="ar">نادان یہ سمجتا ہے کے اسلام ہے آزاد</a>
 
 # <a name="what-exactly-will-be-covered"></a>
 
