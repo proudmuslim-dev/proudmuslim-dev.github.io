@@ -50,7 +50,9 @@ In 1986, there were over 25,000 media entities (newspapers, magazines, radio & m
 
 # The Role of Advertising
 
-The history of advertising in the media is much more interesting than one would think. 
+Without advertisements, a newspaper needs to sell copies at a price high enough to cover operational costs. Its competition, however, can sell copies at a price well below production cost and still have higher margins. The profit from these higher margins can then be used to increase what Chomsky terms the "salability" of the paper, further choking papers that don't participate in the advertising market. The result is that independent newspapers die out, with advertisers forming a de-facto licensing system. 
+
+If a paper steps out of line, advertisers can terminate their deals with it, thereby removing its primary source of revenue. Under this threat, papers are far less likely to run articles critical of the advertisers and the industries that they participate in. Today, practically every single mainstream media company is dependent on advertisers, creating a massive filter on what information your average person will come into contact with.
 
 # <a name="information-sources"></a>
 
