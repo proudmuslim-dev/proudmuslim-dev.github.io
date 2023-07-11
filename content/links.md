@@ -9,14 +9,22 @@ draft: false
 
 This is a living document. It will be updated whenever I find something worth adding, inshāʾ Allāh.
 
+* [Blogs](#blogs)
 * [Web Pages](#web-pages)
 * [Videos](#videos)
+
+# <a name="blogs"></a>
+
+# Blogs 
+
+* [Muslim Skeptic](https://muslimskeptic.com)
+* [Bheria's Substack](https://bheria.substack.com/)
+* [Inkuest](https://inkuest.com/)
 
 # <a name="web-pages"></a>
 
 # Web Pages 
 
-* [Muslim Skeptic's Website](https://muslimskeptic.com)
 * [Tanzeem-e-Islami's archive of Dr. Israr Ahmed's lectures](https://tanzeem.org/speakers/dr-israr-ahmad/)
 * [Muslim Library](https://www.muslim-library.com/?lang=English)
 * [Islamicblessings](http://www.islamicblessings.com/)
