@@ -14,9 +14,9 @@ draft: false
 
 # <a name="top"></a>
 
-* Matrix (preferred): <code>@proudmuslim-dev:matrix.org</code>
+* Matrix (preferred): <code>@proudmuslim-dev:they-are-after.me</code>
   * If your message is especially sensitive, you may contact me through Matrix to ask for my [Session](https://getsession.org) ID.
 * Email: <a href="mailto:proudmuslim-dev@protonmail.com"><code>proudmuslim-dev@protonmail.com</code></a>
-  * Note: I don't check this very often. Don't contact me via this method if you need something urgent.
+  * Note: I don't check this very often. Don't contact me via this method if your needs are urgent.
 
 [[Top]](#top)
