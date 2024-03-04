@@ -15,7 +15,7 @@ draft: false
 # <a name="top"></a>
 
 * Matrix (preferred): <code>@proudmuslim-dev:they-are-after.me</code>
-  * If your message is especially sensitive, you may contact me through Matrix to ask for my [Session](https://getsession.org) ID.
+  * If your message is especially sensitive, you may contact me through Matrix to arrange communication on some alternative platform.
 * Email: <a href="mailto:proudmuslim-dev@protonmail.com"><code>proudmuslim-dev@protonmail.com</code></a>
   * Note: I don't check this very often. Don't contact me via this method if your needs are urgent.
 
